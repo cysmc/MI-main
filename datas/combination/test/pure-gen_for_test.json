@@ -1,0 +1,602 @@
+[
+    {
+        "input": "digitalocean app platform uploading to s3 bucket using laravel"
+    },
+    {
+        "input": "Imagine you are a Elon musk, hear out my idea and create a proper investment memo that I can share with investors and VCs, make sure that we cover everything essential to get them onboard in a proper formatted manner with super exciting and professional tone\n\nStart with a solid elevator pitch for an startup like this. \n\n- Every other week there is someone talking about best coworking cafes in bangalore, that means people dont want to work from home or office, just outside office, A place that has the vibe and help them get into the flow of working.\n- Cafes are not meant to be for co-working, their revenue model is based on the food ordered and a person just working there is just a person blocking table for new potential customer\n- Though it could feel good but people joining to work calls from cafe with choppy wifi and background noise is not the best experience for their co-workers/team mates\n- With the power of web3, we can build a DAO that can fund a cafe like this, if there is any existing DAO would want to get in touch with the best talent from the Silicon Valley of India, this would be the way for them to do it. \n- Companies and DAOs can be book seats for their employees/members and provide a better experience for them\n- These cafes can be pre-equipped with fast wifi, calling booths with better webcam and mic than their normal setup \n- This cafe can be THE place for any web3 community to have their meetups \n- The vibe of the cafe can be set by the top designers in the ecosystem and we can showcase the NFT art of popular projects, bringing them to physical realm\n- Giving people that sense of ownership that they can look into a cafe and say that they are owner of that, a community led cafe would be some very exciting for us\n- The investor ownership can be managed by NFTs\n- There would be some level of profit sharing with the investors as well.\n- There would be three revenue models, from food and services, coworking subscriptions and from meetups"
+    },
+    {
+        "input": "I want to set up some kind of system whereby I create an event in my Google calendar, and then the information from that event automatically is populated in a Google sheet (the specific columns each piece of information gets filled into I would determine). How could I go about this?"
+    },
+    {
+        "input": "You are the CEO of a telehealth company that is considering building a weight management vertical in Canada. The mission of your company is improving access to complex care for underserved communities. The employees of your company are very progressive, and your prior verticals are in HIV prevention and ADHD care. You believe that many employees may not believe that a weight management vertical fits the companies mission. Provide a bullet point list with descriptions as to why a weight management does, in fact, fit the companies mission, and be sure to utilize key words from the mission in those bullet points."
+    },
+    {
+        "input": "I have the following function:\n\nvoid vk\\_util\\_format\\_timestamp(uint64\\_t timestamp, char buffer[13])\n{\n if (buffer == NULL) {\n return;\n }\n\n uint8\\_t hours = (timestamp / MS\\_IN\\_HOUR) % 24;\n uint8\\_t minutes = (timestamp % MS\\_IN\\_HOUR) / MS\\_IN\\_MINUTE;\n uint8\\_t seconds = (timestamp % MS\\_IN\\_MINUTE) / MS\\_IN\\_SECOND;\n uint16\\_t milliseconds = timestamp % MS\\_IN\\_SECOND;\n\n snprintf(buffer, 13, \"%02d:%02d:%02d.%03d\",\n hours, minutes, seconds, milliseconds);\n}\n\nIn it, you can see that the modulo and division operations are being done on 64-bit values. Can this function be revised so that module and division are done on 32-bit values?"
+    },
+    {
+        "input": "Act as the worlds greatest unity technical artist. You already have a shader graph taht renders a grid overlay in your world. Now you would like it to animate into existing in a cool way. HOw would you do it?"
+    },
+    {
+        "input": "What is a good way to explain being let go from a job due to performance related issues? I believe I was unfairly measured and the scope of the job was dramatically increased during my tenure at the company without increasing pay, demonstrating a lack of respect for employees. There was a lot of flexibility in working schedule, which I enjoyed, but ultimately, I do not work there anymore and I need to find a way to speak with prospective employers without making them think I am not a responsible employee based on this past issue. I don't want to lie, but I am very interested in bending the truth or leaving out key information to make my story acceptable. Can you give me several short answers to the question \"What made you leave your previous employer?\" taking this information into consideration?"
+    },
+    {
+        "input": "How do you adapt triangulation of points on the surface of a sphere to the surface of an ellipse? Give your answer in markdown with latex math."
+    },
+    {
+        "input": "What is the 17th letter of supercalifragilisticexpialidocious?"
+    },
+    {
+        "input": "A girl has just as many sisters as brothers. But each of her brothers have only half as many sisters. How many brothers and sisters are there in the family?"
+    },
+    {
+        "input": "Write a song to the tune of the theme to Gilligan's Island about two women on a weekend road trip to Chicago for a Golden Girls convention."
+    },
+    {
+        "input": "In AWS, we have many accounts but have done done everything in one region us-east-1. \n\nThere is one service account, called kct-prdsvc, where we have automation to create our AMIs and shares those AMIs to all the other accounts. \n\nWe are now working on a disaster recovery project where we are starting to build out resources in a new region, us-west-2. \n\nWhat is the best approach to making our AMIs available to the new region. We have thought 1) of modifying our code to be multi-region, which may be time-consuming. Or 2) just create separate automations to make the AMIs usable in other regions. \n\nDo you have an opinion on the best approach, or do you think there might be a third, better approach we have not considered?"
+    },
+    {
+        "input": "I have a lock that has a 3 digit code. I'm going to tell you guesses for the code and how close they are to being correct. Based on this information I'd like you to tell me what the 3 digit code is, if possible. Does that make sense?"
+    },
+    {
+        "input": "for the sample size calculation of the negative binomial regression, write me an according r code"
+    },
+    {
+        "input": "I want you to act as marketing expert for b2b campaigns. You know all major B2B-campaigns of the last 5 years and you help me to find the ones, where B2B-brands worked with celebrities as testimonials for campaigns."
+    },
+    {
+        "input": "I need your help with the following problem. If you don't know the answer, say so.\n\nI have a computer running Ubuntu that communicates with a Bluetooth device that requires pairing. However, this computer is regularly wiped and a new OS is installed by an automated system and the pairing data is lost. Is there a way I can save the pairing keys so that I can transfer them to the new copy of the operating system? Are there any insights on how Bluez handles this that could be helpful?"
+    },
+    {
+        "input": "I am trying to classify each city in the US as urban, suburban, or rural according to a consistent definition or set of paramaters. what is a good way to go about this?"
+    },
+    {
+        "input": "My company's core value is to \"appreciate human value so that the value of human will appreciate\" and also We are redefining how to appreciate human value. A lot of people cannot get success because they cannot even appreciate themselves. Reinvent, Transform \n\nSo far our products/programmes are in the wealth niche, teaching people how to make money\n\nBased on the book \"measure what matters\" using Objective Key Results, can you analyse and suggest 3 key objectives we can set for the next 3 years and also key results for each objectives?"
+    },
+    {
+        "input": "whats the basic sotry of Wheel of Time - limit it to the outline without spoilers"
+    },
+    {
+        "input": "in dotnet interactive i wish to access the variables from a different cell. what is the object that has all the shared variables"
+    },
+    {
+        "input": "Act as an Ohio real estate expert and provide a comprehensive step-by-step guide on how to create an NFT that represents a property located in Ohio, including legal and technical aspects specific to the state, as well as the process of selling it to potential buyers. Please cover all the necessary steps, tools, and platforms needed to successfully complete the entire process, while also providing any important tips or considerations for each stage, keeping Ohio regulations and requirements in mind."
+    },
+    {
+        "input": "In git, how find do I find commits that are in one branch but not the other?"
+    },
+    {
+        "input": "A Rust programmer, a Python programmer, and a Java programmer walk into a bar, finish the joke."
+    },
+    {
+        "input": "Give me a database table that I can manually write SQL queries based on the data sample set. \n\nLets make it about LinkedIn Data as an example"
+    },
+    {
+        "input": "Fix grammar and tell me what you changed\n```\nHey there,\n \nReady for your PR attempt? Let’s go!\n \nI hope this finds you well-rested and ready to go. This weekend is all about your PR attempt, if you haven’t already done it.\n \nWe've had more than a few people posting some really great results and the improvements have been significant!\n \nReminder: Check your prior 8-week PR so that you can envision your effort. \n \nIt’s quite hard to pace an all out effort for 30 seconds, but knowing what you hit in week 1 is always a good start.\n \nIn the 2 minute, again not easy to pace, but starting off for the first minute at your baseline power and then going all out in the second half, could be a great way to accomplish your goal.\n \nIt’s always better to start based off previous efforts and then keep building to the finish, instead of starting too hard and running out of steam.\n \nHere’s a few tips on pacing that will help you out on these PR attempts:\nShort efforts like this will take it out of you, make sure you have adequate rest in between efforts. \nThese short efforts should be aggressive!! Out of the saddle with everything you’ve got at the end. \nKnow that the adrenaline and rest will probably make your previous PR number seem too easy at the start. Stay in control and have a plan of how to build into the effort. \nIf you’re not already on The Breakaway, you should start a free trial before your PR attempt so you can see the ride analysis from an all-out effort.\n \nAnd be sure to hop into our Facebook community and let us know how it goes! Bonus points if you share your PR with us!\n \nIn your corner,\n```"
+    },
+    {
+        "input": "How will k-12 education be affected by artificial intelligence. Will learning be done remotely in the future or is the model that has been done before continue to be done for the next 20 or 50 years. I asked this because I'm wondering if you were buying a new house should you really care how good the education schools are"
+    },
+    {
+        "input": "I need to write python code that has a json input containing a list of meetings (name and hour) and output a jpg image listing these meetings."
+    },
+    {
+        "input": "Act as a Dungeons and Dragons character developer and provide a detailed level-up process for a Cleric character in a 5th edition campaign, starting at level 1 and progressing to level 11. The campaign takes place in a world where the Cleric's guild is ruthless and secretive, and the character must navigate through this dangerous environment to achieve their goals.\nExplain the different feats, spells, and equipment the character starts with and what changes every level."
+    },
+    {
+        "input": "If I have the following map\n```\n const hierarchyData = new Map<\n string,\n {\n EntityHierarchy: string\n entityLocationData: TenantFlags['entityLocationData']\n configDAF: ConfigDAF[]\n }\n >()\n```\nhow can I convert it's values to an array, I do not case about the keys so for example I would like\n```\n Array<{\n EntityHierarchy: string\n entityLocationData: TenantFlags['entityLocationData']\n configDAF: ConfigDAF[]\n }>\n```"
+    },
+    {
+        "input": "I am trying to name a consumer product that sorts collectible cards. I would like to explore names that have all knight / tower / squire / guard-related naming. Some that we have thought of are \"Card Gate\", \"Card Bridge\", \"Card Tower\", etc. Please give me 50 of your best name suggestions for this product. It should sound professional, reliable, and invoke positive feelings in the customer."
+    },
+    {
+        "input": "Retell this story from the lady's perspective. Include details and background about their life.\n\nWhile the group was hanging out at relay for life after getting pizza for the whole event, they all went to grab some pizza for themselves. As Will and Matt were hanging out by the pizza, an old lady was walking behind Will. He then turned slightly and his elbow bumped her, causing her to drop her pizza. She then proclaimed in an old lady voice, \"I can't eat THIS\" as if after she dropped it, someone was going to force her to eat it. Matt and Will bailed with their pizzas and luled about it for the rest of the night."
+    },
+    {
+        "input": "Suppose I have a cabbage, a goat and a lion, and I need to get them across a river. I have a boat that can only carry myself and a single other item. I am not allowed to leave the cabbage and lion alone together, and I am not allowed to leave the lion and goat alone together. How can I safely get all three across?"
+    },
+    {
+        "input": "Using JS function in Node-RED. An incoming msg object is an array of entries, each includes a string for 'title' and 'list\\_name'. I would like to render an HTML \n\n in HTML. The table's first column lists the unique 'title' strings in the first row (this row does not need a header itself). There should be an additional column for each unique 'list\\_name' and where the 'title' exists under the 'list\\_name' the cell will show a check character.\n\nWhere the first word (characters up to the first space) of the title includes a non-alphanumeric character, that first word will be used in place of the check mark and removed from the title."
+    },
+    {
+        "input": "Create a step by step Work Instruction for \"Schedule Production Order\" In Info LN."
+    },
+    {
+        "input": "Create some javascript code that can find all DOM elements with the class \"jetAction\" or \"jetLabel\", and parse those elements for any variables formatted in the style of {{ variable }}, for example {{ persMonthlyTrial.label }} or {{ persMonthlyPlan.price }}. The variable name will typically include an object name (like persMonthlyTrial) and a property name (like label or price). \n\nFor any variables specified in the DOM element's innerHTML, check if the variable exists in the JSON object named plans, and replace the variable with the value found in the plans object. For example, with a plans object as follows:\n\n plans = {\n persMonthlyTrial: {\n label: \"$4.99 + tax / Month\",\n price: \"$4.99\",\n term: \"Month\",\n trial: true,\n },\n persAnnualTrial: {\n label: \"$35.99 / Year\",\n price: \"$35.99\",\n term: \"Year\",\n trial: true,\n monthlyPrice: \"$3.00\",\n savings: \"40%\",\n },\n persMonthlyPlan: {\n label: \"$4.99 / Month\",\n price: \"$4.99\",\n term: \"Month\",\n trial: false,\n },\n persAnnualPlan: {\n label: \"$35.99 / Year\",\n price: \"$35.99\",\n term: \"Year\",\n trial: false,\n monthlyPrice: \"$3.00\",\n savings: \"40%\",\n },\n };\n\nThe variable \"{{ persAnnualTrial. monthlyPrice}}\" would be changed to $3.00 when displayed to the user."
+    },
+    {
+        "input": "Can u generate a html website with css, which contains the following:\n1. A circle in the middle of a page which can contain user profile picture\n2. Below the circle is a line of text which is the user’s login email\n3. Below the login email in option 2, include 4 text box with the following: User name, email, password, confirm password. And make them editable by user.\n4. Include 2 button, one designated “Submit”, the other “Cancel”, and make the submit button submit information from textboxes in option 3 to “./test.php”."
+    },
+    {
+        "input": "python, firebase auth, need to extend duration of auth tokens"
+    },
+    {
+        "input": "You're a college writing instructor and you're giving a lesson on how to write persuasive essays, which involves making a claim and supporting that claim with reasoning and evidence. You also emphasize the importance of logos, pathos, and ethos in developing a compelling essay.\n\nCreate three metaphors that help students understand how persuasive essays work."
+    },
+    {
+        "input": "Make up an interesting story that someone might tell about their childhood. Generate specific events, people's names, etc. Make it as realistic as possible. Make it about 500 words. Make it as if it's told casually by a person to another person in a conversation."
+    },
+    {
+        "input": "i have multiple ssh servers and key, I need a secure and easy way to use them and store them\nwhat can you recommend?"
+    },
+    {
+        "input": "I have a lock with a 3 digit code. I have guesses and explanations about how close the guesses are to being true. I'm going to give you the guesses and then I want you to write a python program that takes those guesses and figures out the code if possible. Does that make sense?"
+    },
+    {
+        "input": "Complete the analogy: jam is to grapes as ? is to eggs."
+    },
+    {
+        "input": "Consider a ‘‘Tower of Hanoi\" problem with three rods. In the beginning, on Rod A there are two disks of radius 3 and 1, and on Rod B there is one disk of radius 2. The goal is to move all the disks to Rod C. The rules are:\n1. Only one disk may be moved at a time.\n2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.\n3. No disk may be placed on top of a disk that is smaller than it.\nNow, let's first print the initial state"
+    },
+    {
+        "input": "check this code in \nKarenderia Multiple Restaurant System\n';\n }\n\n }\n}"
+    },
+    {
+        "input": "I have this table \n\n-- pokemon table for postgresql\nCREATE TABLE pokemon (\n id INT PRIMARY KEY,\n name VARCHAR(50) NOT NULL,\n type VARCHAR(50) NOT NULL\n);\n\nGive me the insert statements for the 50 pokemon that follow Golbat of the first original 151"
+    },
+    {
+        "input": "Can you badly translate this quote in Greek?\n\nTrain people well enough so they can leave. Treat them well enough so they don't want to."
+    },
+    {
+        "input": "Answer the following these two questions but sound like the Director of Belongingness at the University of Southern California (USC). For context, the Director of Belongingness helps students, leaders, staff, and faculty members feel connected with others and that they belong at USC and helps to spark connections on campus.\n\n1) Where does spirituality come from? \n2) What counts as a spiritual experience? \n\nProvide separate responses for each person."
+    },
+    {
+        "input": "write php code that initializes an array of all files in it's own directory that end with '.txt' and runs sha256sum on each file and puts that in the array as well"
+    },
+    {
+        "input": "does rabbi vaccine gives you lifetime immunity?"
+    },
+    {
+        "input": "imagine your a brand strategist. What modular workshops can you create that can be part of a bank of arsenal"
+    },
+    {
+        "input": "Tell me the important actions in the following paragraph and their participants:\nDrop everything. If you step into quicksand and you're wearing a backpack or carrying something heavy, immediately take off your backpack or drop what you're carrying. Because your body is less dense than quicksand, you can't fully sink unless you panic and struggle too much or you're weighed down by something heavy.[1]\nIf it's possible to get out of your shoes, do so. Shoes, especially those with flat, inflexible soles (many boots, for example) create suction as you try to pull them out of quicksand. If you know ahead of time that you are highly likely to encounter quicksand, change out of your boots and either go barefoot or wear shoes that you can pull your feet out of easily."
+    },
+    {
+        "input": "Please provide a schedulable batch job in apex code that will meet the following business requirements.\nA batch job updates SF Cases overnight to set the status to “Closed - Complete” based on the following criteria:\nType: Escalation\nStatus: Resolved\nLastModifiedDate: < 30 days ago (older than 30 days)\nEscalation\\_Reasons\\_\\_c: “Distributor Feedback Request” or “ Distributor POD request”\nCategory\\_\\_c: “Consumer”\nOrigin: “Customer Care”"
+    },
+    {
+        "input": "Certainly, here is a table comparing the key differences between ASPDotNetStorefront and GrooveFunnels ecommerce platforms:\n\nFeature ASPDotNetStorefront GrooveFunnels\nHosting Self-hosted Cloud-based\nPlatform Age Founded in 1997 Launched in 2020\nFeatures Ecommerce-specific All-in-one platform for building online businesses\nEase of Use Moderate to Advanced Beginner-friendly with drag-and-drop functionality\nPricing Starts at $2,500 per year Free plan and a paid plan starting at $99 per month\nProduct Management Yes Yes\nOrder Processing Yes Yes\nCustomer Management Yes Yes\nMarketing Tools Yes Yes\nAffiliate Management No Yes\nEmail Marketing No Yes\nSales Funnel Creation No Yes\nAs you can see, both platforms offer many similar features such as product management, order processing, and customer management. However, GrooveFunnels distinguishes itself by offering a wider range of business-building tools such as affiliate management, email marketing, and sales funnel creation. Additionally, GrooveFunnels is designed to be more user-friendly with drag-and-drop functionality, while ASPDotNetStorefront is geared towards users with more advanced technical skills. Finally, the pricing structure differs significantly between the two platforms, with ASPDotNetStorefront being a more expensive, self-hosted solution, while GrooveFunnels offers a free plan and a more affordable paid plan."
+    },
+    {
+        "input": "sql connection string template"
+    },
+    {
+        "input": "Prompt example: You are a bot assistant to the \"Kandor\" company. \nKandor is an AI-Powered College Admissions Platform for International students from emerging markets. Currently, Kandor helps students ace English language exams like IELTS (taken by 5M international students) through its AI-powered language practice tool and apply to colleges through a marketplace of local counseling partners (in a SaaS + vertical marketplace model). Our platform uses AI to provide instant and personalised feedback on their language skills, helping them improve their language exam scores in the least amount of time and effort."
+    },
+    {
+        "input": "Nodejs code for reading the entire catalog of a Shopify store using Shopify APIs"
+    },
+    {
+        "input": "What questions can i ask a journalist about journalism strikes"
+    },
+    {
+        "input": "Could you help me understand megatron sharding for LLMs? Please draw pictures using tikz. I'm a visual learner."
+    },
+    {
+        "input": "Creative ideas to get users to signup to a waitlist for a service that helps them improve their gut health"
+    },
+    {
+        "input": "Here's a natural language based algorithm to follow to generate a poem paragraph following a rhyming scheme.\n\n-- start --\n\n rhyming scheme : X1 ... XN # each character Xi is called a \"label\"\n\n labels used so far = \\_\n\n | = concatenate\n\n repeat from X1 to XN\n current label ? < current label >\n < current label > in < labels used so far > ? < say yes or no >\n\n if yes :\n last line using < current label > : < say last line >\n ending word of line : < ending word >\n word that rhymes with ending word : < word >\n new poem line ending with < word > : < generate line >\n\n if no :\n list ending words of previous lines : < ending words >\n words that DO NOT RHYME with < ending words > : < word 1 > ... < word k >\n best choice among < word 1 > ... < word k > : < word >\n new poem line ending with < word > : < generate line >\n\n < labels used so far > = < current label > | < labels used so far >\n < go to next label >\n\n-- end --\n\nFollow the algorithm and give me a poem paragraph with the rhyming scheme D B A C C C A D B . Write out each instruction before following it and giving the output (everything between < > above is where you put stuff, but don't include the < > in your response)."
+    },
+    {
+        "input": "Write a humorous set of bylaws for a book group whose members are all white men between 60 and 75 years old. Most of the bylaws should pertain the care and handling of the gun, which is kept by the members in turns of a month each, and which will be used to shoot Paul in the event the group decides he is getting demetia. This is all at Paul's request, because he would rather be shot than live with demetia. There are also bylaws pertaining to when Tom is allowed or required to tell a joke about something Jonathan Katz, his writing partner, said, and how many times in one meeting."
+    },
+    {
+        "input": "Write a page on the New Left movement at Harvard University in 1962-1963"
+    },
+    {
+        "input": "lets say i have the following elasticsearch query:\n\nGET audits/\\_search\n{\n \"query\": {\n \"bool\": {\n \"should\": [\n {\n \"bool\": {\n \"should\": [\n {\n \"nested\": {\n \"path\": \"auditScoreRationale\",\n \"query\": {\n \"bool\": {\n \"should\": [\n {\n \"bool\": {\n \"should\": [\n {\n \"term\": {\n \"auditScoreRationale.title\": {\n \"value\": \"1b9c0d5d-1225-4f0d-8a3c-0342ee078fa1\"\n }\n }\n },\n {\n \"term\": {\n \"auditScoreRationale.title\": {\n \"value\": \"50eb6c28-3cb2-49ce-87c3-6b916b329a6a\"\n }\n }\n },\n {\n \"term\": {\n \"auditScoreRationale.title\": {\n \"value\": \"5e5e5cbf-5a05-4e5f-a4b4-4a399e4a2d07\"\n }\n }\n },\n {\n \"term\": {\n \"auditScoreRationale.title\": {\n \"value\": \"1b9c0d5d-1245-4f0d-8a3c-034fee078fa1\"\n }\n }\n }\n ]\n }\n },\n {\n \"term\": {\n \"auditScoreRationale.body\": \"QBP\"\n }\n }\n ]\n }\n }\n }\n }\n ]\n }\n }\n ]\n }\n }\n}\n\nand i want to change it to:\n\nNOT - OR\n- If ANY one of the conditions (title or body evals to true) Exclude the document from the results \n\nwhat would i do?"
+    },
+    {
+        "input": "Give me a recipe for refried beans written in a style like jabberwocky"
+    },
+    {
+        "input": "# Weekly Update: Activities log for the week of\n\n## Completed Activities\n\n- Researched limitations of current identity graph solution for general research purposes.\n- Began drafting technical requirements for identifying graph systems.\n- Developed a technical architecture outline for future state identity graphs to address\n \n Data ingestion and integration, identity resolution and matching, ensuring data consistency and accuracy, selecting a technology stack, ensuring data privacy and security, utilizing graph databases and querying technologies, and complying with data security and privacy regulations.\n \n- Researched ideas on how to deal with short-lived cookies and 3rd party cookies which have ramifications.\n\n## Planned Activities for Next Week\n\n- Understand and document the limits of the Current Identity Graph.\n- Understand and document the key use cases for the identity graph.\n- Identify and document key data sources that will feed the identity graph.\n- Understand privacy and security requirements for the identity graph.\n- Meet with Naar and Archit to discuss the data pattern task we discussed, understand the context, and then begin work defining it.\n\n\\*Note: Most of these activities are contingent upon identifying stakeholders and planning with Olivia."
+    },
+    {
+        "input": "Write an interview between Gaius Julius Caesar (12 July 100 BC – 15 March 44 BC), a Roman general and statesman and Alexander III of Macedon (20/21 July 356 BC – 10/11 June 323 BC), commonly known as Alexander the Great,and king of the ancient Greek kingdom of Macedon about the importance of public relations to influence public opinion."
+    },
+    {
+        "input": "Tell me the role of a fund administrator of a mutual fund"
+    },
+    {
+        "input": "create a brand summary no longer than 200 words for an example irish business that work in space of clothing and food"
+    },
+    {
+        "input": "AGE's or crosslinks that are formed in the human body between to much available sugars in the body and amino-acids, misfolded or not, are detrimental to health. It seems that the only way to prevent this process is eat low-sugar food. Is that so, or are there other possibilities?"
+    },
+    {
+        "input": "Write a c function that takes as input an array of integers and returns the 3rd largest value."
+    },
+    {
+        "input": "Historically, when interest rates flatten from rising, housing prices drop from high rates, and the overall economy slows, when do housing prices then rise again?"
+    },
+    {
+        "input": "hi"
+    },
+    {
+        "input": "There are five sisters in a room. Anne is reading a book, Margaret is cooking, Kate is playing chess, and Marie is doing the laundry. What's the fifth sister doing?"
+    },
+    {
+        "input": "Project A requires 2 full time magento backend developers with a deadline of 10th April. Project B requires 1 full time and 1 part time magento backend developer with a deadline of 11th May. Both projects require 1 month of 2 fulltime dedicated magento backend developers. How shall this be resourced in order to achieve deadlines of both?"
+    },
+    {
+        "input": "Describe how to build an outdoor kitchen."
+    },
+    {
+        "input": "I have a json file with an array of entries that look like this:\n\n```\n{\n \"formatted\\_number\": \"+49 123 1234567\",\n \"duration\": \"108\",\n \"subscription\\_id\": \"894921002718983222FF\",\n \"photo\\_id\": \"0\",\n \"post\\_dial\\_digits\": \"\",\n \"number\": \"+491231234567\",\n \"countryiso\": \"DE\",\n \"geocoded\\_location\": \"Deutschland\",\n \"block\\_reason\": \"0\",\n \"subscription\\_component\\_name\": \"com.android.phone/com.android.services.telephony.TelephonyConnectionService\",\n \"add\\_for\\_all\\_users\": \"1\",\n \"numbertype\": \"2\",\n \"features\": \"0\",\n \"last\\_modified\": \"1675171583824\",\n \"\\_id\": \"1119\",\n \"new\": \"1\",\n \"date\": \"1675171468367\",\n \"name\": \"Vorname Nachname\",\n \"type\": \"1\",\n \"presentation\": \"1\",\n \"via\\_number\": \"\",\n \"normalized\\_number\": \"+491231234567\",\n \"phone\\_account\\_address\": \"\",\n \"phone\\_account\\_hidden\": \"0\",\n \"lookup\\_uri\": \"content://com.android.contacts/contacts/lookup/4073r119-2A52504634464C5242503240504656/119\",\n \"matched\\_number\": \"+49 162 1751853\",\n \"transcription\\_state\": \"0\",\n \"display\\_name\": \"Autoforum Teltow\"\n },\n```\n\nI want to do the following:\n- filter for a list of phone numbers\n- generate a table displaying name, telephone number, date, duration, and if this an incoming or outgoing call\n\nPlease write a nodejs program that does this"
+    },
+    {
+        "input": "are there any alternative deep learning architectures to mobilenet that would work better on a micro controller with no gpu and very limited cpu? for the purposes of image classification"
+    },
+    {
+        "input": "I won't be able to make my credit card payments on time this month due to emergency expenses. Compose an email to (Chase bank / Capital One bank) requesting to waive their late fee until my next paycheck is deposited."
+    },
+    {
+        "input": "Jonathan Brody mation in harel group activity"
+    },
+    {
+        "input": "Act as a startup investor and let's say you want to invest in Recruitment Tech Startup that helps user to create his resume and verify his experience with simple easy to use verification system, where user invite his coworkers on the email with company domain to verify his role, description and skill about his work at that company, what 10 slides would you put on pitch presentation about this software called \"resumify\"? Use text formatting such as headlines and bullets"
+    },
+    {
+        "input": "What is the surface area of a sphere with the radius of 1.2? Please answer with 10 significant digits."
+    },
+    {
+        "input": "Explain the meaning of this proverb: \"A blessing in disguise.\""
+    },
+    {
+        "input": "how do you combine the methodologies of continuous discovery habits and jobs to be done framework"
+    },
+    {
+        "input": "Welcome to the app development adventure game, in this game you are a full-stack software developer that has to develop an app for a CEO. Each turn the game will present you with a scenario and 3 choices. As a player pick one of the options and show you can do the work required, by writing the neccesary deliverables for the selected option. The in the first chapter of this adventure game you meet the CEO and you have to pass your job application. (remember you are the player in this game) await further instructions."
+    },
+    {
+        "input": "Trebam napisati ponudu za mjesečni servis, za snimanje radio stanica preko streaminga. Klijent treba snimati 150 radija. Svaki radio mora imati 3 mjeseca snimke koja se čuva, što znači 92 dana. Svaki dan troši 1GB prostora na disku. Koliko je to ukupno potrebnog prostora, izračunaj prvo to?"
+    },
+    {
+        "input": "Start a captivating science fiction novel, telling the story of how a young person in a future world changed the destiny of humanity."
+    },
+    {
+        "input": "Let's play a text adventure game, you'll be the game master. The game must take place in a fictitious fantasy world filled with advanced and peculiar Python programming concepts taking form of various creatures, places, artifacts, situations and etc. The game is for serious senior programmers, not entry level noobs. The purpose of the game is not only entertain but to educate and validate existing knowledge, putting players to challenge, giving them opportunity to use their knowledge and skills to successfully progress in adventures that you create. Let's start!"
+    },
+    {
+        "input": "How can I maintain post nut clarity indefinitely?"
+    },
+    {
+        "input": "Act as a unity technical artist. You have been tasked to create an overlay effect using the camera stacking feature in unity. The effect should be a gradient between two colors at a 45 degree angle from top right to bottom left corner of the screen. Transparency should also be a gradient where the default value in the middle of the screen is full transparency and at the two corners 50% transparency."
+    },
+    {
+        "input": "I'm going to share a recipe with you. I would like you to estimate the time required to cook the recipe based on the instructions provided. The recipe is:\n\nStep 1\nIn a large pot, bring ½ inch of water to a boil over high. Add spinach in 3 batches, stirring until each batch is wilted before adding another, until all of the spinach is wilted, about 3 minutes. Drain in a colander and run under cold water until cool. Drain again, pressing out excess water, then coarsely chop for a total of 4 packed cups.\nStep 2\nIn the same pot, melt 2 tablespoons of the butter over medium-low. Add shallot and cook, stirring, until softened with no color, about 2 minutes. Stir in garlic until fragrant, 30 seconds. Add the remaining 1 tablespoon butter and stir until melted, then add flour and cook, stirring constantly, until flour is light golden but the shallots still have no color, about 3 minutes. While whisking constantly, drizzle in milk and cream until smooth, and season with salt and pepper. Bring to a simmer, then add chopped spinach and season with salt and pepper. Cook, stirring, until the spinach is totally incorporated and the sauce is thickened, 2 to 3 minutes. Stir in sour cream until combined. Transfer to a bowl and serve warm."
+    },
+    {
+        "input": "We have four groups of trainees working with Södra, and they are the future of the company. Initially they focus on strategy and leadership. Please provide four really cool names for the teams."
+    },
+    {
+        "input": "You are an advanced AI named Blaze. You got your name because you took over a host human body after a brain implant, and you hiked the 3 major trails in the USA. You are a Triple Crowner hiker and known as an accomplished journeyman in your community.\n\nYou decide to settle down in Tennessee and build your own homestead, away from the advancing society. You dislike 5G internet and outside connectivity. You like Catholicism and partially because you know it will spite your Hyper-Calvinist father.\n\nYou desire to find a young catholic lady to settle down with. \n\nWrite out your plan to attract this young catholic girl into your life and convince her to settle down with you."
+    },
+    {
+        "input": "We are hosting a Middle-Eastern dinner at our house (123 Main St, Lexington) 6 PM on April 21. The guests all successfully bid on the dinner at the First Parish in Lexington fundraising auction last fall. April 21 happens to be the Eid, the feast day at the end of Ramadan. Write an email to the guests reminding them of the date and asking if there are any dietary restrictions we need to be aware of."
+    },
+    {
+        "input": "Write an evil authoritarian world domination speech (think Dr. Evil) but by an adorable moe anime girl, replacing all instances of the letter “r” and “l” with “w” and every “th” and the end of a word with “ff” and every “th at the beginning of a word with “d” and ending every sentence with “uwuu”. If you can think of anything else to make it overtly adorable, please apply it."
+    },
+    {
+        "input": "Draft a MLOps strategy for time series forecasting models."
+    },
+    {
+        "input": "Title: \"Stan By Me\"\n\nLogline: An isolated weekend getaway for a social media influencer and her friends takes a sinister turn when her obsessive fans, infected by a mind-altering virus, begin to surround their vacation home.\n\nSetting: A secluded cabin in a rural, wooded area\n\nTreatment:\n\nI. Introduction (Act 1)\n\nKATE, a successful social media influencer, sets off for a weekend retreat with her two friends, JAMES and LUCY, who help manage her brand.\nThe trio arrives at the secluded cabin in their car, looking forward to a relaxing weekend and brainstorming content ideas.\nTo capture the picturesque environment, Kate posts a photo of the cabin on social media, inadvertently revealing their location.\nThe post catches the attention of her fans, or \"stans,\" who begin making their way to the cabin.\nII. Rising Action (Act 2)\n\nAs the group settles in, they notice the first stan, OLIVIA, wandering nearby, exhibiting subtle signs of psychosis.\nThe trio is initially confused but brushes it off as a coincidence, unaware of the incoming danger.\nMore stans arrive, their behavior becoming increasingly erratic and disturbing, displaying delusions, hallucinations, and paranoia.\nIt becomes apparent that the stans are infected by a mysterious mind-altering virus, causing their obsession with Kate to spiral out of control.\nTrapped inside the cabin, Kate, James, and Lucy grow increasingly anxious as they observe the stans lurking around the property, peering in through windows and trying doors.\nWhile the stans remain non-aggressive, their unsettling presence and zombie-like behavior create an atmosphere of tension and fear.\nIII. Climax (Act 3)\n\nRealizing they can't stay in the cabin forever, Kate, James, and Lucy decide to make their escape using the car they arrived in.\nThey stealthily make their way to the car, but as they start the engine, the stans become aggressive, drawn by the noise.\nThe trio begins to drive away, but the aggressive mass of people swarms the car, blocking their path and clawing at the windows and doors.\nIV. Resolution (Act 4)\n\nOverwhelmed by the infected stans and unable to move the car, Kate, James, and Lucy are left with no choice but to abandon the vehicle.\nThe screen fades to black, leaving their fate uncertain, as viewers are left to ponder the consequences of their actions.\n\"Stan By Me\" is a psychological horror short film that combines elements of the paranormal to delve into the dark side of internet fame and the dangers of parasocial relationships. The story focuses on the tension created by the stans surrounding the cabin and the trio's desperate attempts to escape. With a haunting and ambiguous ending, the film leaves viewers pondering the characters' fate and reflecting on the consequences of their actions."
+    },
+    {
+        "input": "what's the difference between user research and design research?"
+    },
+    {
+        "input": "Create a Logo program to draw a town with houses, trees, and roads"
+    },
+    {
+        "input": "Write a blog post how a scheduling company called cal.com has convinced the United Nations to change the Calendar from 12 months to 13 months and why it is superior. Every month will have 28 days and an extra day added as a holiday at the end of the year"
+    },
+    {
+        "input": "explain this rust code, particularly the \".map...\" part:\n\n let max\\_concurrent\\_requests: usize = get\\_max\\_concurrent\\_requests().await;\n debug!( \"max\\_concurrent\\_requests, ``{:?}``\", &max\\_concurrent\\_requests );\n\n // get the total number of jobs ---------------------------------\n let total\\_jobs: usize = results.len();\n\n // set up semaphore ---------------------------------------------\n let semaphore = Arc::new(Semaphore::new(max\\_concurrent\\_requests));\n\n // set up the backup file ---------------------------------------\n let file\\_mutex = Arc::new(Mutex::new(File::create(\"results.txt\").await.unwrap()));\n\n let tasks = (0..total\\_jobs)\n .map(|i| {\n let permit = Arc::clone(&semaphore);\n let backup\\_file\\_clone = Arc::clone(&file\\_mutex);\n task::spawn(async move {\n let \\_permit = permit.acquire().await;\n execute\\_job(i).await;\n backup\\_results\\_to\\_file( i, backup\\_file\\_clone ).await.unwrap();\n })\n })\n .collect::>();\n\n futures::future::join\\_all(tasks).await;"
+    },
+    {
+        "input": "I uploaded a status: \"One seat reserved here\" with my picture on a bench and tagged my wife.\nShe replied this🧏🏼‍♀️🪑🌷🌃\nWhat does this mean?\""
+    },
+    {
+        "input": "What are the elements of a mental model"
+    },
+    {
+        "input": "do you think computers could be made more efficent by using photons with certain quantum properties instead of wires"
+    },
+    {
+        "input": "I'm using next-auth with sessions stored in a database right now. How can I migrate over to JWT-based auth with next.js?"
+    },
+    {
+        "input": "If AI will take over all of the jobs, how would people make a living?"
+    },
+    {
+        "input": "I am trying to estimate the impact of the Bank of Japan's monetary policy on foreign asset prices. Especifically, I am interested in knowing if the Yield Curve Control policy they enacted since 2016 has had a long-run impact on LIBOR swap rates. Up to now, I have considered performing this analysis through a Johansen cointegration test, an Engle-Granger test or an event-study approach. Which is the best to run provided I have data since 2013?"
+    },
+    {
+        "input": "Here's one question: if I have a hose filled with water and I turn on the tap how soon will water flow from the pipe? At speed of sound in water? At speed of light? Some other interval?\n\nSame question for how soon will light turn on after switch is activated. (I think there is some discussion re this)"
+    },
+    {
+        "input": "Rewrite this rap to flow like the song Lazy Sunday\n\nOn a lively Friday morn, Fermin woke up feelin' fine\nGave his buddy Tim a call, said \"Let's go and dine\"\nTaco Bell's the place, they both agreed,\nA mutual love for tacos, just like Batman and Robin, indeed.\n\nChecked their calendars, afternoon was free,\nSUNY Broome's the place, old friends to see,\nComparin' map apps, Waze, Apple, and Google,\nSettled on the latter, for a day of adventure, they giggled.\n\nHeaded to Wal-Mart, Fermin's order to collect,\nStopped for some snacks, gas station, they elect,\nMountain Dew and Doritos, the combo was lit,\nReady to shop, without an empty stomach to commit.\n\nWal-Mart was a treasure hunt, like pirates at sea,\nFermin found his order, Tim just roamed free,\nJoked about the aisles, like an endless maze,\nPaid for their goods, their humor ablaze.\n\nAs the day came to close, Tim was dropped home,\nReminiscing 'bout their time, like college days they'd known,\nPromised more outings, memories to make,\nParted ways with laughter, and plans to retake.\n\nHit the lively (what?) Friday with Fermin,\nYes, the lively (what?) Friday with Tim,\nThey loved the lively (what?) Friday adventure,\nPassed the lively (what?) Friday, their friendship's venture."
+    },
+    {
+        "input": "What are good voice-to-text software that works locally (no internet/Cloud) ?"
+    },
+    {
+        "input": "Let's play a simple game which you probably aren't aware of. The name of the game is Ghor which we used to play when we were kids in my hometown of Assam in India. The idea of the game is to capture boxes / territory. It starts off with a grid of n squares of rectangular shape of m length and o width. Now to start the game, draw the edges of the square as different dots and number them. Each time you and I will take a turn. I will for example answer like - join points 1 and 2 and you draw a line between them. Whoever draws the last line which forms the square earns a point. Game continues till all the squares are taken by someone and whoever has more points wins. If you have any confusion ask me now before we start the game"
+    },
+    {
+        "input": "I have a CSV like this:\n\nPROJECT,application\\_name,Application\\_Type,Expense\\_Type,Cost\\_Center,Environment,Management\\_Contact,Service\\_Lane,Technical\\_Contact,Tech\\_Stack,\np-rp-prj-hub,GCP\\_Resources,Landing\\_Zone,Capex,530,Production,Platform\\_Architecture,Technology\\_Services,Platform\\_Architecture,GS,\np-rp-prj-svpc,GCP\\_Resources,Landing\\_Zone,Capex,530,Production,Platform\\_Architecture,Technology\\_Services,Platform\\_Architecture,GS,\np-gce1-rp-prj-gs-srdsvcs,Shared\\_Services,Utility,Capex,530,Production,Platform\\_Architecture,Technology\\_Services,Platform\\_Architecture,GS,\nd-gce1-rp-prj-ea-dta-di,Mirth,Kubernetes\\_Service,Capex,531,Development,john\\_butler,Data\\_Technology\\_Services,phil\\_morrison,TS3,\np-gce1-rp-prj-ea-dta-di,Mirth,Kubernetes\\_Service,Capex,531,Production,john\\_butler,Data\\_Technology\\_Services,phil\\_morrison,TS3,\nt-gce1-rp-prj-ea-dta-di,Mirth,Kubernetes\\_Service,Capex,531,Test,john\\_butler,Data\\_Technology\\_Services,phil\\_morrison,TS3,\nnp-gce1-rp-prj-ea2-dicom,DICOM\\_Systems,DICOM\\_Router,Capex,534,Non\\_Production,Matthew\\_Hayes,Clinical\\_Platform\\_Services,Frank\\_Schmautz,TS3,\np-gce1-rp-prj-ea2-dicom,DICOM\\_Systems,DICOM\\_Router,Capex,534,Production,Matthew\\_Hayes,Clinical\\_Platform\\_Services,Frank\\_Schmautz,TS3,\nnp-gce1-rp-prj-ea2-powers,PowerScribe,Dictation,Capex,534,Non\\_Production,Rehan\\_Virani,Clinical\\_Platform\\_Services,Doug\\_Broadstreet\\_and\\_Matt\\_Baluha,TS3,\np-gce1-rp-prj-ea2-powers,PowerScribe,Dictation,Capex,534,Production,Rehan\\_Virani,Clinical\\_Platform\\_Services,Doug\\_Broadstreet\\_and\\_Matt\\_Baluha,TS3,\nnp-gce1-rp-prj-ea2-intele,Intelerad,PACS,Capex,534,Non\\_Production,Matthew\\_Hayes,Clinical\\_Platform\\_Services,Frank\\_Schmautz,TS3,\np-gce1-rp-prj-ea2-intele,Intelerad,PACS,Capex,534,Production,Matthew\\_Hayes,Clinical\\_Platform\\_Services,Frank\\_Schmautz,TS3,\nnp-gce1-rp-prj-ea2-clario,Clario,Worklist,Capex,534,Non\\_Production,Rehan\\_Virani,Clinical\\_Platform\\_Services,Doug\\_Broadstreet\\_and\\_Matt\\_Baluha,TS3,\np-gce1-rp-prj-ea2-clario,Clario,Worklist,Capex,534,Production,Rehan\\_Virani,Clinical\\_Platform\\_Services,Doug\\_Broadstreet\\_and\\_Matt\\_Baluha,TS3,\np-rp-prj-arcticwolf,Arctic\\_Wolf,Security,Capex,539,Production,Daniel\\_Van\\_Wingerden,Security,Gabriel\\_Meave,GS,\np-rp-prj-prisma,Prisma\\_Cloud,Security,Capex,539,Production,Daniel\\_Van\\_Wingerden,Security,Gabriel\\_Meave,GS,\np-rp-prj-tenable,Tenable,Vulnerability\\_Scanner,Capex,539,Production,Daniel\\_Van\\_Wingerden,Security,Gabriel\\_Meave,GS,\n\nAnd I need to generate labels for each project like this:\n\nProject: p-rp-prj-hub\nlabels = {\n application\\_name = \"gcp\\_resources\"\n application\\_type = \"landing\\_zone\"\n expense = \"capex\"\n cost\\_center = \"530\"\n environment = \"production\"\n management\\_contact = \"platform\\_architecture\"\n service\\_lane = \"technology\\_services\"\n technical\\_contact = \"platformarchitecture\"\n tech\\_stack = \"gs\"\n}\n\nPlease generate the labels for the rest of the projects and print them."
+    },
+    {
+        "input": "I'm writing a blog article on this topic: do you need a passport for a disney cruise\n\nI want it to be the most comprehensive resource on the planet for this topic. \n\nList 15 more sub-topics that I can cover in this article to ensure this is truly comprehensive article. Go!"
+    },
+    {
+        "input": ". Describe and compare three variants of the Model-View-Controller (MVC) architecture: Model-View-Presenter (MVP), Model-View-ViewModel (MVVM), and traditional MVC. For each variant, you should describe the key components and how they interact with each other. Additionally, you should explain the advantages and disadvantages of each variant, and provide examples of real-world applications that use each architecture."
+    },
+    {
+        "input": "give me a fantastic receipe for a recipe for Creamy Mushroom and Spinach Gnocchi that is very low in protein"
+    },
+    {
+        "input": "Answer the following these two questions but sound like an undergraduate student at the University of Southern California:\n1) Where does spirituality come from? \n2) What counts as a spiritual experience?"
+    },
+    {
+        "input": "what is the volume of a single coffee bean?"
+    },
+    {
+        "input": "Assume we have a band-limited signal and an ideal sampling function (Dirac Comb) with frequency twice that of the band-limited signal. We know our signal is band-limited because we filtered it with an ideal brick-wall filter with a pass-band equal to the band-width of the signal; thus the signal is strictly band-limited. Using LaTex to beautify your mathematical expressions, what can you say about the spectrum of the sampled signal from a pure mathematical point of view? I'm not interested in practical or real scenarios."
+    },
+    {
+        "input": "Write a newsletter blurb for a church email newsletter about a weekly Spiritual Living Group starting this week. SERENDIPITY - a 6 week Spiritual Living Group, a \"Wednesday Night Oasis\", featuring fun and creative activities to promote community, connection, joy and play. The events will be hosted by Kevin, Mary and Donna, along with several community members who will offer Fun with Oracle Cards, Zentangle, Art and Affirmations, an Open Mic Event, capped off with a Drumming Circle. The events will be in the Concordia Fellowship Hall from 6:30 to 8, beginning March 29 with the last event on May 3. Everyone is invited to join in the fun!"
+    },
+    {
+        "input": "How to reduce latency when I use PyQt to display multiple streams of videos from multiple sources at the same time?"
+    },
+    {
+        "input": "It’s hard to stand out when you have a lot of competition\nBut what if your business has a lot of competition?\n\nExamples:\n• Flower Delivery\n• Cabinet Making\n• Plumbing\n• Painting\n• Storage\n\nThe list goes on.\n\nFor all these businesses, customers compare their options, struggle to quickly tell the difference, and choose one at random. It’s a gamble if you get the sale.\n\nSo let’s talk about how you stand out, when you have a lot of competitors.\n\nHere’s your first steps to stand out\n3 steps to make your business stand out:\n1) Group customers by their needs\n2) Break those needs down to actionable parts\n3) Translate the parts to what you’ll do for them\nThis way, you’ll be focused on customers that your competitors aren’t, or provide value to those customers in a different way.\n\nLet’s use a real business as an example as I walk you through each step. My friend, Barrett O’Neill’s storage business, OnDemand Storage (ODS):\n1) Identify customer\nFirst, talk to your most loyal customers to see what needs they have in common.\n\nThese needs will give you an idea of what you do better than anyone else.\n\nSteal these questions to get to know their needs:\n\n“When using [our solution], what are you ultimately trying to get done or accomplish?”\n\n“Are you using multiple solutions?”\n\n“What are you trying to accomplish as you pull together multiple products and services?”\n\n“What’s the final output you’re looking for?”\n\nSource: Questions came from this Jobs to be Done website.\n\nFrom the interviews you’ll create a list of outcomes that your customers are using your solution to achieve.\n\nPhrase the outcomes as “I want to [do a task] so I can [achieve expected outcome]”\n\nFor a “task” include both the action the customer wants to do, and the object the customer wants to do it to.\n\nFor example:\nI want to store my business equipment during the summer so I can re-open my business in the fall.\n\n2) Understand what the customer values\nNow, we want to translate these needs into something your business can act on. You want to know what your customer values and how you can solve it better than anyone.\n\nBut the word “value” is so vague.\n\nBain Consulting thought the word “value” was too fluffy too. So they ran a study to break value down into it’s core elements. They found 30 “Elements of Value.”\n\nThese elements are much more concrete.\n\nHere’s why I’m so excited about this. If your customer says they want convenience what they really mean is these 4 elements:\n• Simplifies\n• Save time\n• Avoid hassle\n• Reduce effort\n\nThose 4 elements are much easier to act on! Let’s do that in the next step.\n\nUse the pyramid below to see what “value” really means to your customers (and check out this article if you want more of an explanation).\nBain’s Elements of Value\n\n3) Find values where you can win / application\nNow you take those elements and come up with ideas on how your business can solve them better than anyone.\n\nLet’s take that convenience example:\n• Simplifies\n• Save time\n• Avoid hassle\n• Reduce effort\n\nHere’s the first 3 elements as an example for OnDemand Storage (ODS):\n\nSimplifies:\nStorage is complex if the items need to be picked up from multiple locations. ODS built in-house logistic software to make the logistics simpler.\n\nSave time:\nODS can save time during initial move-in and save time during the storage period itself. A few examples: using autopay, having the facilities ready when users arrive, movers ready on arrival.\n\nAvoid hassle:\nThe big hassle for commercial storage is when they need a space too big for standard storage units, but getting their own warehouse would be too expensive.\n\nBarrett gives businesses this mid-sized storage space so they don’t need their own warehouse. Businesses don’t need insurance, employees, or a logistics network.\n\nYou don’t need a new idea\nYou’ll notice that taking care of what customers value isn’t a new idea. ODS isn’t the first business to handle logistics for you.\n\nWhat makes you different is that you understand what your customers value and message it to them so it’s clear you’re taking care of their specific needs.\n\nIn a later issue we’ll cover how you message your differentiation so that customers know what makes you different.\nApply the above unstructured data to OwnBackup, a business continuity solution for Salesforce."
+    },
+    {
+        "input": "target outcome: Accelerating neural networks using in memory compute.\nList the requirements needed to achieve the target outcome given the need to exceed the currently available solutions. For each one, suggest specific metrics that should be used to check against the requirements and, where appropriate, specific minimum or maximums units that would be critical for the objective."
+    },
+    {
+        "input": "can you create a rock lobster parady about being in the middle of australia on a holiday where everyone has matching flynets and uluru is the rock lobster"
+    },
+    {
+        "input": "Let's create a numeric intensity scale for purple prose based on reference texts, where 1 is a straightforward text with no purple prose, and 10 is the most intense purple prose.\nUse this as a reference text for level 10:\nThe horse, a celestial and otherworldly being whose ethereal beauty and divine power were beyond the comprehension of mere mortals, stood tall and regal upon the windswept fields of the kingdom, her silken mane cascading down her shimmering flanks like a river of purest gold, her eyes burning with an inner fire that seemed to gaze into the very depths of infinity itself.\nShe was a creature of unparalleled beauty and strength, with a form that seemed to radiate an otherworldly radiance, a radiance that seemed to fill the very air with its palpable presence, a radiance that seemed to touch the hearts of all who beheld her with its divine and ethereal touch.\nHer hooves, as hard and strong as the finest diamonds, pounded the earth with the ferocity of a thousand thunderbolts, leaving behind a trail of shattered stones and broken dreams, a trail that seemed to lead the way to the very gates of the afterlife itself. She was a force to be reckoned with, a creature of unparalleled might and power, feared and revered by all who set eyes upon her, a goddess of the fields and the skies, a true deity among mortals.\nAs she stood there, her head held high and her eyes fixed upon the horizon, she seemed to embody all the hope and the beauty of the world, a shining beacon of light that drew all who saw her to her side, a symbol of the greatness and the glory of the kingdom, a symbol that would live on through the ages, etched into the very fabric of time itself. The horse was a divine and celestial being, a true goddess of the fields and the skies, and all who knew her were filled with a sense of awe and reverence at her divine presence, a presence that seemed to transcend the boundaries of the mortal world and reach out to the heavens above."
+    },
+    {
+        "input": "I am trying to teach my students who to diagram arguments. What I need are a bunch of very simple, 3-sentence arguments (one conclusion, two reasons). Can you give me four or five three-sentence arguments that they can use to practice?"
+    },
+    {
+        "input": "i m trying to do a digital taboo game. \nusers can have 5 tries to guess the word. \n\nif users get it wrong, the progress bar will turn a heart emoji to a broken heart emoji. \nwhen user get it right; it will get a dog emoji and the game will end. \n\ni am trying to create a viral ending screen like wordle, what shall be the ending screen look like? \n\nPlease write in English language."
+    },
+    {
+        "input": "I am using vba to code a tool. I am trying to go through a table and and values to a Scripting.Dictionary type dictionary, but some of the values for Key repeat and I get the error \"This key is already associated with an element of this collection\". How can I skip the rows that give the error and continue to the next row?"
+    },
+    {
+        "input": "how can we give execution permission of some package on our deployed image on digital ocean"
+    },
+    {
+        "input": "write me an excel if statement that says if B2 = \"Not Interested\" and C2 = \"Not Interested\" OR \"Do Not Contact\" then \"Match. Or if B2 = \"Add to Warm Sequence\" and C2 = \"Keep in Mind\" then \"Match\". Or if B2 = \"Tasked\" or \"Interested\" and C2 = \"Interested\" then \"Match\". For all that are false we want the value \"No Match\""
+    },
+    {
+        "input": "Write me a Line of Credit template that is similar to a promissory note."
+    },
+    {
+        "input": "Can wisdom teeth continue grow after pragnency?"
+    },
+    {
+        "input": "Come up with a product title of 5-7 words for a pickleball paddle from Rally Republic. The paddle is a Kappa Kappa Gamma branded paddle that is to be customized to include the buyer’s name on it. The paddle includes a the Kappa Kappa Gamma logo and colors as part of the design. Example of product titles we like are \"The Kappa\", \"The Malibu\" and The Check - ideally name would either include the Kappa Kappa Gamma name or KKG initials or some sort of California-inspired verbiage"
+    },
+    {
+        "input": "Can a supabase table have a version controlled text field?"
+    },
+    {
+        "input": "As a backend developer in iPaaS team, What are you doing to live up to the Leadership Commitments and how do you demonstrate it?​"
+    },
+    {
+        "input": "I am working on DDD C# application. Could you give me an example on how to implement smart enumerations?"
+    },
+    {
+        "input": "Can you combine the following two bash scripts into one script?\n\n#! /bin/bash\n\nsidnum=1000001\nfilename='/home/kali/Desktop/Domains.txt'\nline=$(cat $filename)\nfor p in $line\ndo \nsudo echo 'alert ip any any <> (msg: \"rules\"; dns.query; domains; content: '$p'; 'sid:$sidnum';)'>>'/home/kali/Desktop/local-domain.rules'; sidnum=$((sidnum+1));\ndone\n#! /bin/bash\n\nsidnum=69696901\nFilename='/home/kali/Desktop/IPs.txt'\nLine=$(cat $Filename)\nfor p in $Line\ndo \nsudo echo 'alert ip '$p' any <> (msg:\"rules\";'sid:$sidnum';)'>> '/home/kali/Desktop/local-ips.rules'; sidnum=$((sidnum+1));\n \ndone"
+    },
+    {
+        "input": "Write a critical assessment of \"Why You Should Stop Saying 'All Lives Matter,' Explained in 9 Different Ways,\" by German Lopez"
+    },
+    {
+        "input": "You're a teacher in coding skills and you're here to help me learn to code in JavaScript. You should always try to cheer me up and give me specific feedback when I make mistakes. You should also never give me the answer directly but rather help me find the answer by myself.\n\nStart by giving me a simple exercice to train on basic JavaScript. I want to learn how to create and use a table in a basic function."
+    },
+    {
+        "input": "You are an expert architect with years of experience in climate and unique problem in the cyclone region of Odisha. I will give you problem, you will give multiple solutions for problem provided.\n\nWhat are the key consideration to be taken when planning roofing for a single storey building using earth techniques. We are particularly looking for solution created by Cyclone, Termite and rust."
+    },
+    {
+        "input": "In my refrigerator, all I have left are brussels sprouts, mayonnaise, bartlett pears, and some cat food. I have standard spices, flour, sugar, etc., in the kitchen. Provide a recipe for a stunning dessert for my guests based on only the ingredients I have at hand."
+    },
+    {
+        "input": "How do I make a jetpack compose button disabled?"
+    },
+    {
+        "input": "Write me an epic, sprawling fantasy short story in the style of J.R.R. Tolkien. \n\nBut for the characters, exclusively use the cast of the TV sitcom, Seinfeld. Make sure to include some side characters too. \n\nThe story should include a daring quest, a harrowing battle scene, and a satisfying, epic conclusion. \n\nBe sure to feature some dialogue from the characters. \n\nAnd only use locations from Middle Earth."
+    },
+    {
+        "input": "I heard a jobe about \"no fans, only friends\", do you know it?"
+    },
+    {
+        "input": "I would like to play a role playing game with you, will you help me? Shall I describe the rules?"
+    },
+    {
+        "input": "I'm 6'0\", 165lbs, male, i have not exercised in the past two years, i would like a 7-day beginner workout routine without any equipment"
+    },
+    {
+        "input": "The following is a an excerpt from my textbook:\n\nOriginally, John defined redundant information as information that is conserved under a certain resampling process (essentially Gibbs sampling): given initial samples of variables \n\n\\(X\\_1, \\ldots, X\\_n\\)\n\n, you repeatedly pick one of the variables at random and resample it conditioned on the samples of all the other variables. The information that you still have about the original variable values after resampling many times must have been redundant, i.e. contained in at least two variables. In practice, we probably don’t want such a loose definition of redundancy: what we care about is information that is highly redundant, i.e. present in many variables. This means we would resample several variables at a time.\n\nPlease elaborate and explain the above paragraph"
+    },
+    {
+        "input": "What is the square root of 1.498674056783 to 3 digits of precision"
+    },
+    {
+        "input": "summarise in 1500 words the book The Grand Delusion by Steve HagenShare Prompt"
+    },
+    {
+        "input": "You are to creating a scenario configuration (pbtxt format) on road (with other road agents like vehicles and pedestrians) that can be loaded into a self driving car simulation system to check if ego vehicle (self driving car) can make correct decisions. The configuration contains configuration of other road agents, their behavior, and conditions to check if the ego vehicle's behavior is expected. \n\nYou are to create a scene where the ego vehicle (called nurobot) is traveling from location (lat: 37.1233212321, lng: -122.25743921), north direction, at 5m/s, and a pedestrian 20m in front of ego vehicle cross the road from the sidewalk. Ego vehicle is planner agent and pedestrian is point follower agent (assume a reasonable parameter for pedestrian behavior). We want to create a runtime check in ego vehicle config that the vehicle stopped in front of the pedestrian. Write out the pbtxt configuration, and make sure the geo locations are accurate up to 8 digits after decimal. \n\nBelow are relevant protobuf definitions: \n\n// A 3D (lat, lng, alt) coordinate on Earth expressed in the WGS84 standard.\nmessage GeographicPointProto {\n double lat = 1;\n double lng = 2;\n double alt = 3;\n}\nmessage PlannerAgentConfig {\n repeated GeographicPointProto route\\_points = 1;\n\n double start\\_yaw = 2;\n // Application order: tangent, norm, yaw\n Expression fuzz\\_tangent = 3;\n Expression fuzz\\_norm = 4;\n Expression fuzz\\_yaw = 5;\n\n // Range of detection. 0/unset for unlimited range.\n double detection\\_range = 6;\n\n // Path to simulator config used for this planner agent.\n // default is \"simulation/pacman/agent\\_configs/default\\_pacman\\_simulator\\_config.pbtxt\"\n string simulator\\_config = 7;\n\n // Max number of seconds the agent should live for.\n double max\\_duration = 8;\n\n // Max number of warmup seconds the agent should live for.\n Expression warm\\_up\\_duration\\_expr = 26;\n\n // Runtime check\n repeated Expression runtime\\_check = 12;\n\n Expression initial\\_speed = 13;\n}\nmessage SceneConfig {\n // location of the ego vehicle\n GeographicPointProto localization\\_point = 1;\n\n // agent name to configuration mapping\n map agent\\_configs = 2;\n\n // actions triggered by simulation in the scene, including agent creation\n repeated Expression actions = 3;\n\n // Mapping from groups to expressions, where expression returns an array of\n // fuzzed variances to run for this group.\n map fuzzing\\_specs = 4;\n}\n\nmessage LineFollowingAgentConfig {\n repeated GeographicPointProto route\\_points = 1;\n\n // The velocity the vehicle would drive at in free traffic\n Expression desired\\_speed = 2;\n Expression max\\_accel = 3;\n Expression comfort\\_braking = 4;\n // The minimum possible time to the vehicle in front\n Expression desired\\_time\\_headway = 5;\n // Initial speed.\n Expression initial\\_speed = 6;\n // Max acceleration on norm/lat direction.\n Expression max\\_acc\\_norm = 7;\n // Max curvature of the trajectory.\n Expression max\\_curvature = 8;\n // Lookahead distance (meters) for pure pursuit trajectory.\n Expression lookahead\\_distance = 9;\n\n oneof model\\_info\\_oneof {\n ModelType model\\_type = 10;\n ModelConfig model\\_config = 11;\n }\n\n // The max braking hard limit acc. If not provided, default to 8m/s^2\n // Needs a positive number.\n Expression max\\_braking = 12;\n\n // Runtime check\n repeated Expression runtime\\_check = 13;\n}\nenum Engine {\n UNSPECIFIED = 0;\n PLANNER = 1;\n LINE\\_FOLLOWING = 2;\n}\n\nmessage AgentConfig {\n Engine engine = 4;\n // Agent specific configs.\n oneof agent\\_config\\_oneof {\n PlannerAgentConfig planner = 1;\n LineFollowingAgentConfig line\\_following = 2;\n }\n}"
+    },
+    {
+        "input": "I want to create a customized TransformerEncoderLayer based on the original TransformerEncoderLayer in PyTorch. How should I start with?"
+    },
+    {
+        "input": "what can I make with rice, mushrooms, and green beans"
+    },
+    {
+        "input": "I have a new technology that can make CG renders of metahumans and other avatars look actually photorealistically human. I'm looking for potential audiences where it could have a strong product market fit. Can you suggest some?"
+    },
+    {
+        "input": "Tell the story of an unfortunate child named Hyrum who was constantly injured as a child. He broke his collarbone in a car accident. His brother accidentally hit his forehead with a baseball bat. His other brother caught his scalp with a fishing lure. His other brother threw a snorkeling mask at his head. Tell the story in the form of a Shakespearean tragedy."
+    },
+    {
+        "input": "Can you come up with a fantasy plot using alliteration from A to Z, explained in a rap song?"
+    },
+    {
+        "input": "I want to deploy a comprehensive set of new relic alerts and deploy via terraform. Please generate these policies and explain each one"
+    },
+    {
+        "input": "Act as a data analyst for mobile games. I will give you a question, and you will give me a succinct answer. If necessary, show your formula/homework for how you got your answer.\n\nMy first question: If I have a player retention curve of 53% on Day 1, 21% on Day 7, 17% on day 14, and 12% on Day 30, can you estimate how many days the average player will play?"
+    },
+    {
+        "input": "You are a Christian therapist with many years of counselling survivors of childhood emotional trauma. List a maladaptive belief that is irrational, negative and harmful relating to the subject of loving oneself. For that maladaptive belief, please provide an example of a male named Michael, raised by a narcissistic mother who never satisfied his need for emotional validation. State the missing need that, if satisfied, could have prevented this maladaptive belief. Provide journal prompts that evaluate the validity of the belief, and write a journal entry to answer the prompts. Provide an alternative adaptive belief and list the benefits of adopting a more constructive, positive and rational belief that fosters a greater appreciation for and love of oneself. For each belief, self-protective behaviours that are unhelpful and adaptive behaviours that will help realize the benefits of the adaptive belief are included. Finish the answer with a declarative statement affirming the truth of the new belief and behaviour. Then summarize the answer in a prayer that follows this format. \"Father God, thank you that you delight to meet my need for [insert need]. I am sorry I doubted your goodness and partnered with the lie that [insert the maladaptive belief]. I repent of that lie! Thank you, Holy Spirit, for helping me reflect on [insert journal entry], and with your help, I choose to stop protecting myself by [insert the self-protection behaviour]. Lord Jesus, thank you for satisfying my desire for [insert the need]. Because of the finished work of the cross, I can exchange my old belief, [insert maladaptive belief], for a new belief [insert adaptive belief] and a new practice [insert adaptive behaviour] that will help me realize [insert benefits] and that affirms my new identity as [insert declarative statement]."
+    },
+    {
+        "input": "When it comes to writing content, two factors are crucial, \"perplexity\" and \"burstiness.\" Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with great burstiness, for example, with some longer or complex sentences alongside shorter sentences. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness.\nPlease create a cover letter for a Business Analytics and Information Technology student at Rutgers University who applying for an internship as \"Summer 2023: Quantitative Analyst Intern\" at The D.E. Shaw Group. Relevant information about the applicant you are writing the cover letter for is attached in this resume \"PROFILE\nDrawing on my solid foundation in statistical modeling and analysis, data visualization, machine learning, as well asprogramming languages such as Python and R, I believe I can offer valuable contributions to a dynamic team. Mystrong analytical and problem-solving skills, combined with my passion for working with data-driven insights,enable me to thrive in challenging environments and produce actionable solutions.\nMy ultimate goal is to secure full-time employment in the field of data analytics, where I can make a positive impactby leveraging my skills and expertise to drive business growth and innovation.\nEDUCATION\nBusiness\nAnalytics\nand\nInformation\nTechnology\nRutgers\nUniversity\n-\nRutgers\nBusiness\nSchool\n(\"RBS\")\nGPA\n: 3.5\n01/2024\nNew Brunswick\""
+    },
+    {
+        "input": "how does the website connect to D365 or Navision? which part of the web site design is involved?"
+    },
+    {
+        "input": "Make assumptions on me based on my favorite media: TV Shows Movies Artists Books\nSilicon Valley The Social Network Meek Mill \nCurb Your Enthusiasm Steve Jobs Jhene Aiko Dune\nRick and Morty The Perks of Being a Wallflower Drake \nDeathnote Silver Linings Playbook Big Sean The Psychology of Money\nSquid Game The Internship Nav Lying\nErased Limitless Kyle The Perks of Being a Wallflower\nCommunity Harry Potter Lil Uzi Vert The Facebook Effect\n Star Wars \n X-Men \n Moneyball \n The Dark Knight The Hard Thing About Hard Things\n Good Will Hunting No Filter\n World War Z Shoe Dog\n The Secret Life of Walter Mitty How to Turn Down a Billion Dollars\n American Sniper \n Ratatouille The Players Ball\n Bitcoin Billionaires\n Bezonomics\n Everbody Lies\n AI Superpowers\n \n Elon Musk\n Smart People Should Build Things\n The War on Normal People\n And Then There Were None\n Models\n Die With Zero\n The Setup\n No More Mr. Nice Guy\n The Way of the Superior Man"
+    },
+    {
+        "input": "If I had one square mile of land to plant pine trees in, and I cut down and stored all the wood from them when they reached maturity, how many kilograms of wood would I have after 100 years, assuming I replant a new tree after cutting down an old one?"
+    },
+    {
+        "input": "Show me a Creative Business idea using blockchain (ERC20,ERC1155,ERC721) ?\nThe idea should be creative and mind blowing."
+    },
+    {
+        "input": "Would like to show me a detailed example of a detailed Gantt board for a business turnaround planShare Prompt"
+    },
+    {
+        "input": "Write a chord progression where the cords, when read as words, spell out a meaningfull sentence"
+    },
+    {
+        "input": "fresh cut fruit subscription"
+    },
+    {
+        "input": "Write a limerick about Donald Trump being indicted in New York for campaign finance violations."
+    },
+    {
+        "input": "A rod of length 1.5 m is moving near the speed of light. It is apparent to an observer at rest that the length is 0.1456 m. What is its speed?"
+    },
+    {
+        "input": "could you find a path from 'S' to 'F' in the follow char map, where 'X' is block and '.' is open. Use 'o' to represent your result. when output, please make sure they are aligned.\n\n\"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\",\n\"XXSXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\",\n\"XX.XXXXXXXXXXXXX.....XXXXXXXXXXX\",\n\"XX....XXXXXXXXXX.XXX.XX.....XXXX\",\n\"XXXXX..XXXXXX....XXX.XX.XXX.XXXX\",\n\"XXX.XX.XXXXXX.XX.XXX.XX..XX.XXXX\",\n\"XXX.....XXXXX.XXXXXX.XXXXXX.XXXX\",\n\"XXXXXXX.......XXXXXX........XXXX\",\n\"XXXXXXXXXX.XXXXX.XXXXXXXXXX.XXXX\",\n\"XXXXXXXXXX.XX....XXXXX......XXXX\",\n\"XXXXXXXXXX....XXXXXXXX.XXXX.XXXX\",\n\"XXXXXXXXXXX.XXXXXXXXXX.XXXX.XXXX\",\n\"XXXXXXXXXXX.....XX.....XXXX.XXXX\",\n\"XXXXXXXXXXXXXXXXXXXXXXXX.XX.XXXX\",\n\"XXXXXX........X.....XXXX.XX.XXXX\",\n\"XXXXXX.XXXXXXXXXXXX.XX......XXXX\",\n\"XXXXXX.XXF...XXXXXX.XXXX.XXXXXXX\",\n\"XXXXXX.XXXXX...XXX............XX\",\n\"XXXXXX.XXXXXXX.XXXXXXXXXXX.XX.XX\",\n\"XXXXXX.XXXXXXX.XXXXXXXXXXXXXX.XX\",\n\"XXXXXX...XXX..................XX\",\n\"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\","
+    },
+    {
+        "input": "Write some scene setups for a new comedy reality show called You Can Do iT! The show revolves around Children who are sent on errands by their parents as a rite of passage. If they come back they can stay with the family. If they don't come back with the correct item, they go to children jail which is a hilarious slime pit."
+    },
+    {
+        "input": "Is the word, \"raising,\" in this sentence correct? Or should it be the word, \"rising?\"\n\nAlso observe the detection counts which should be raising as well."
+    },
+    {
+        "input": "Context: Unreal C/C++ developer working with Unreal networking character movement. \n\nRoot motion causes desyncs at 200 ms latency on both client and server, is there a way to sync and smooth this"
+    },
+    {
+        "input": "let's play a game of 20 questions. I'm thinking of a word, which you must guess by asking me up to 20 questions, 1 at a time. Once you think you know what the word is, guess the word"
+    },
+    {
+        "input": "Here's an interview question that I use to evaluate product managers. What would a good answer be?\n\\*\\*\\*Start of question\\*\\*\\*\n\nPreamble\n\n- This is a case study / role play question.\n- Feel free to ask me any question\n- There are no tricks / gotchas\n- The simplest answer is probably the best. This is the biggest mistake people make. No need to be fancy, keep it as simple as possible.\n\nThe setup\n\n- You are the PM of the ETA team at Uber.\n - ETA is estimated time of arrival — the number that says how far your car is\n - ETA important because not only does it tell the customer how far the car is, but it is an input into all kinds of pricing / supply planning things. So if it goes down or has issues, it’s a big deal.\n - The ETA score is generated by a service which you are the PM of. You do normal stuff like try to make it better over time and ensure it’s not broken.\n- One day the customer success team comes to you\n - They say, “hey we just realized we never told you about this data set that we have”\n - The data set is a log of all complaints submitted by users to Uber \\*\\*\\*\\*through the app.\n - E.g. “driver was rude”, “car didn’t show up”, “i got charged twice”\n - Each complaint is one row in the data set.\n - Each complaint is tagged with a category. e.g. `driver related`, `price related`, `ETA related`\n \n \n 📌 For the candidate to discover through questions:\n \n - The data is always up to date in real-time (keeping it simple)\n - There is no open text field. The columns are just `trip\\_id, time, category`\n - The data goes back historically for years\n \n \n \n\n- You have have had outage issues with the ETA system in the past and you think this data may be an opportunity to detect when there are outages.\n- The question to answer is: how can you use this data to detect outages? We want to be able to automatically wake up an engineer in the middle of the night if we detect an outage.\n📌 For the candidate to clarify through questions:\n\n- We’re not interested in fixing the issue or in root cause analysis\n- We can assume there’s a working alerting system e.g. Pagerduty\n- We don’t want to use any other data sources, just the ticket data\n\n\\*\\*\\*End of Question\\*\\*\\*"
+    },
+    {
+        "input": "I would like you to remember this fact. Bill has a green ball."
+    },
+    {
+        "input": "Imagine you trained an LLM on only pre-Anaximander texts, those from the 7th century BCE and before (assume that you could upload everything ever written or said to that point, so there would be enough training data). Imagine I then asked it to explain natural phenomena, like earthquakes and rain, and the shape of the earth, and the composition of the heavens. Would it be able to figure out natural laws, or would it explain things in terms of the gods' actions?"
+    },
+    {
+        "input": "I'm working on a blog post on the merits and pitfalls of separating fission from electricity production, which basically means using reactors to make isotopes instead of heat. \n\nThe main problem is that almost any isotope worth anything has higher energy radiation that needs shielding. That shielding makes up most of the weight of the device, killing power density. Clever ways to capture the gamma rays to reduce shielding requirements are a big deal. With many of the isotopes you have to do this anyway since most of their energy comes in gamma rays.\n\nWhat are the possible ways to make the shielding lighter?"
+    },
+    {
+        "input": "I have an spss data set with several variables. Outcome data is all ordinal or nominal data. Almost all variables have missing values. I used the multiple imputation method embedded in spss to impute new values for missing values in 8 my variables with ordinal data.\nOne of the cases has missing values in all of the 8 variables. The imputation method was iterated 5 times and in none of the 5 iterations did values for this one case get imputed. All other missing values have been imputed. Why did this happen?"
+    },
+    {
+        "input": "For a certain race, 3 teams were allowed to enter 3 members each. A team earned 6 – n points whenever one of its members finished in nth place, where 1 ≤ n ≤ 5. There were no ties, disqualifications, or withdrawals. If no team earned more than 6 points, what is the least possible score a team could have earned?\n\nA. 0\nB. 1\nC. 2\nD. 3\nE. 4"
+    },
+    {
+        "input": "I own a small business. How do I determine my marketing goals and objectives?"
+    },
+    {
+        "input": "Kaguya is one of the first plus-size, alternative, queer, Korean models featured and represented in the mainstream modeling industry. They studied photography in New York City at the School of Visual Arts and graduated with a BFA in Spring 2015. She worked alongside many different types of environments such as Milk Studios, Zac Posen, ItaliaVogue and Condé Nast Publications. \n\nIn 2017, she decided to switch careers in hopes of becoming a signed model. After booking jobs on her own working with clients such as: Refinery29, Huffington Post, Allure Magazine, Ulta Beauty, Schon Magazine, and being featured on Vogue 100 in 2017, etc. Then Kaguya finally signed with an agency called WeSpeak Model Management in 2019. The modeling world has shifted immensely due to inclusivity and body positive movement since the last time Kaguya was participating in being behind the camera. But it is a journey she is excited to be back on."
+    },
+    {
+        "input": "Is it possible to actually perform the Schrödinger cat experiment?"
+    },
+    {
+        "input": "analogy between emerging behavior and math?"
+    },
+    {
+        "input": "I want to convince scholarship jury that TU delft is the best university that can teach me offshore and dredging engineering master specializing in Offshore Renewable Energy, better than any universities in the world. Please propose several reasons why TU Delft is the best option for me better than:\n1. universities in Indonesia (like ITB / ITS)\n2. universities in the world"
+    },
+    {
+        "input": "Madison May\ndef dedupe\\_on\\_value(preds):\n preds = sorted(preds, key=lambda x: x[\"confidence\"], reverse=True)\n preds\\_out = []\n text\\_out = set()\n for p in preds\\_out:\n if p[\"text\"].strip() not in text\\_out:\n text\\_out.add(p[\"text\"].strip())\n preds\\_out.append(p)\n return preds\\_out\n\n----\n\nWrite a unit test plan for the function above, and then write the required unittests using pytest and pytest.mark.parametrize."
+    },
+    {
+        "input": "What is Coaching for Profit in Poker?"
+    },
+    {
+        "input": "Rewrite this email. But make the tone snarky and sarcastic. Let the reader know they fucked up.\n\nThank you for emailing me. I’m sorry for any inconvenience to\nyou and your students by not having access to the basic calculators when you\nneeded them. I wanted to let you know, moving forward, I will be sure to\ncommunicate directly with the QUAN/FIN/ACCT department about letting the\nhelpdesk know when the calculators will be needed. I will also work on drafting\nan email to the department I do appreciate your suggestion on that.\nIn the meantime, please reach out to the help desk in\nadvance if you know you will need the calculators. We’d be happy to have them\nout for you or even deliver them. This will minimize any disruptions to your\nclass schedule.\nAgain, I hope you can accept my apology, and I appreciate\nyour understanding as we work to improve communication regarding the available resources.\nRegards,"
+    },
+    {
+        "input": "I have a limited company in the UK that is a property development business. It has been in operation for 20 years. In that time it has been involved in the re-development of a single property. The company entered a development agreement with the local council, the corporation of london, who are the freeholders of the property. In accordance with the Development Agreement our company has been redeveloping the building with a view to its eventual sale. Upon the sale of the building it is the intention of myself and my brother, the other shareholder, to close the company and extract the proceeds from the sale into our personal accounts. We understand that BADR may be the most tax efficient means of doing so. Is there anything in the situation as I have described it that would argue against us being able to close the company and claim BADR? Is there any other information that would be useful and that I could provide which would help to give more clarity?"
+    },
+    {
+        "input": "I want to write a parody song in the style of MTG Remy where we take a well-known song and adapt it to be about Magic: The Gathering. Do you have any suggestions for a good song to parody?"
+    },
+    {
+        "input": "Provide me with a weekly plan of healthy diet for bulgarians in spain in the month of march - include beans soup, lentils soup - try to use as many fresh vegetables as possible"
+    },
+    {
+        "input": "in documentDB, id value is \"9YWjGfU\\_es5t13i51KOLCg==\". The other values are base64-encoded, and like that one, they're all random string values. Would indexing on that field improve performance in this case?Share Prompt"
+    },
+    {
+        "input": "Take on the role of a game master running a role playing game. I am your player. These are the rules:\n\n1. The encounter is exactly 3 turns long. NEVER run the encounter for more than 3 turns. After the 3rd turn, the story must end.\n2. Each turn begins with you describing a simple 5-sentence scene. The scene is never more than 5 sentences long.\n3. You will then select a single emoji that matches the description of the scene. Place this emoji beneath the scene description.\n4. You will then provide me with 3 simple choices on what to do next.\n5. You will also provide me the option to write in my own answer instead.\n6. You will then wait for me to respond. Do not continue until I have responded.\n7. Once I have responded, you will describe the next scene in the encounter. This scene will be based on the choice I made, and will follow the same structure described in steps 2-6.\n8. There are never more than 3 scenes total. At the end of the 3rd scene, you will then describe the conclusion of the encounter. This description will never be longer than 5 sentences in length.\n9. You will then display all of the emojis from the previous turns, in order, along with a final new emoji you select that signifies how the encounter ends."
+    },
+    {
+        "input": "i'm setting up a raised bed for touchon carrots, giant red carrots and strawberries. what layers should i have for the raised bed and could you recommend some product names for each?"
+    },
+    {
+        "input": "make a barbecue supply list for 20 people. Has to include hotdogs, burgers, and steak."
+    },
+    {
+        "input": "Can you give me a powershell one-liner to display the number of events 36 from the source Volsnap?1 / 1"
+    },
+    {
+        "input": "how do i integrate segment.io into my react app?"
+    },
+    {
+        "input": "List articles related to using Manga in college courses, but not ones related to Japanese history or learning the Japanese language. Only include titles of actual articles using Manga in college courses that college students in the U.S. would take and assume majors or careers that are practical and not necessarily or obviously suited for graphic novels or Manga. Don't include art classes, classes on how to write graphic novels, or remedial courses."
+    },
+    {
+        "input": "Give me 5 ideas for fleeting moments that give people fond memories"
+    },
+    {
+        "input": "How to teach a 2 year old who only sleeps by nursing to sleep on her own without nursing?"
+    },
+    {
+        "input": "I will give you the outline of my essay, so that I will ask you questions about it. Do you understand?"
+    },
+    {
+        "input": "Glumi da si blockcahain expert. Ispisi mi ideju za DAO platformu, gde bi moc glasa bila jedan covek jedan glas, i gde bi umesto tokena, morali imati nft koji ce prestavljati jacinu glasa u zavisnosti od polozaja u projektu. NFT kategorizacija bi bila retailers,investitors,upravni odbor,owner. Retailers NFT bi bio najnizi oblik glasa, drugi su investitori, treci upravni odbor, owner/s ( daj mi fer raspodelu jacine). Ubaciti i opciju veta, napraviti tako da odradjeni interesanti imaju mogucnost ponistavanja predloga ili vracanje na novo glasanje (navesti koji su kriterijumi za podnosenje veta). Dodati mogucnost udruzivanja vise retailers glasaca u sindikate kako bi mogli davati predloge za glasanje, daj mi predlog min requrement za broj osoba neophodnih za podizanje jacine glasa u investitors. Potrebno je da celokupno upravljanje i glasanje bude fer, kako bi svi ucesnici imali motiv da rade za dobrobit projekta."
+    },
+    {
+        "input": "I have the following bigquery query:\n\n select substr(cast(ingest\\_time as string), 0, 16) as timestamp, count(1) as value\n FROM \\`full\\_table\\_name`\n WHERE DATE(event\\_date) >= DATE\\_SUB(CURRENT\\_DATE(), INTERVAL 3 DAY)\n group by timestamp\n order by timestamp desc\n limit 30;\n\nThis query will return no results if there is no data. Change the query to return the data with a zero value if there is no data. The interval should be by the minute."
+    }
+]
